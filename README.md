@@ -1,4 +1,4 @@
-🍕 Responsive Restaurant Website
+#🍕 Responsive Restaurant Website
 A complete, modern, and fully responsive restaurant/food ordering website built from scratch using HTML5, CSS3, Vanilla JavaScript, PHP PDO, and MySQL database.
 🌟 Features
 Frontend Features
@@ -187,16 +187,4 @@ Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-👨‍💻 Author
-Your Name
 
-GitHub: @yourusername
-LinkedIn: Your LinkedIn
-Email: your.email@example.com
-
-🙏 Acknowledgments
-
-Thanks to all contributors who helped with this project
-Inspiration from modern restaurant websites
-Icons from FontAwesome
-Images from Unsplash (replace with your actual image sources)
