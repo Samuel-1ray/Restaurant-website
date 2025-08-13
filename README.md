@@ -1,4 +1,4 @@
-#🍕 Responsive Restaurant Website
+🍕 Responsive Restaurant Website
 A complete, modern, and fully responsive restaurant/food ordering website built from scratch using HTML5, CSS3, Vanilla JavaScript, PHP PDO, and MySQL database.
 🌟 Features
 Frontend Features
@@ -93,32 +93,6 @@ Navigate to http://localhost/restaurant-website
 
 
 
-📁 Project Structure
-restaurant-website/
-│
-├── index.html              # Main homepage
-├── css/
-│   ├── style.css          # Main stylesheet
-│   └── responsive.css     # Responsive styles
-├── js/
-│   ├── script.js          # Main JavaScript file
-│   └── slider.js          # Touch slider functionality
-├── php/
-│   ├── config/
-│   │   └── database.php   # Database configuration
-│   ├── includes/
-│   │   ├── header.php     # Header component
-│   │   └── footer.php     # Footer component
-│   └── pages/
-│       ├── login.php      # User login
-│       ├── register.php   # User registration
-│       ├── profile.php    # User profile
-│       ├── cart.php       # Shopping cart
-│       └── checkout.php   # Checkout process
-├── images/                # Image assets
-├── database/
-│   └── restaurant_db.sql  # Database schema
-└── README.md             # Project documentation
 🎨 Key Design Features
 CSS Grid Implementation
 
